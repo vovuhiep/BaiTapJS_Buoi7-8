@@ -1,0 +1,8 @@
+.col-5 .btn {
+    display: block;
+    margin: 10px;
+    width: 100%;
+}
+.col-6 .btn {
+    width: 20%;
+}
